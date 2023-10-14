@@ -1,0 +1,19 @@
+body{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%, rgba(70,252,250,1) 125%);;
+}
+.guessField{
+    height: 1.6rem;
+    border: solid 2px black;
+}
+#guess{
+    font-size: 1.6rem;
+}
+#subt{
+    background:rgb(121, 104, 104);
+    border: 2px solid black;
+    color: white;
+    margin-left: 90px;
+    margin-top: 10px;
+    padding: 5px;
+}
